@@ -1,0 +1,2 @@
+# pruebarails
+experimentos en rails.
